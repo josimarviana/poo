@@ -2,12 +2,9 @@
 using namespace std;
 
 int main (int argc, char **argv){
-	string mensagem;
 	cout << "Digite seu nome: ";
-	cin >> mensagem;
-
-	cout << "Seu nome eh: " << mensagem;
-
-
-
+	string nome;
+	cin >> nome;
+	cout << "Olá " << nome << endl;
+	return 0;
 }
