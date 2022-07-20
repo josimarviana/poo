@@ -12,5 +12,5 @@ int main (int argc, char **argv){
     double peso = 938.22;
     cout << fixed << setprecision(2) << endl;
     cout << "Peso: " << peso << endl;
-
+    return 0;
 }

@@ -10,5 +10,5 @@ int main (int argc, char **argv){
     float z = x / (float) y; // atribui 1.5
 
     cout << z <<endl;
-
+    return 0;
 }

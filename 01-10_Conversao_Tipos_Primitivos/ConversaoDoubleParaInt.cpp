@@ -8,5 +8,5 @@ int main (int argc, char **argv){
     int tamanho = (int) largura; // isso compila
 
     cout << tamanho << endl;
-
+    return 0;
 }

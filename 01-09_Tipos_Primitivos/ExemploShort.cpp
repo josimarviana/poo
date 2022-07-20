@@ -8,4 +8,5 @@ int main (int argc, char **argv){
 
     unsigned short quantidadeestoque2 = 65535; // valor máximo
     // unsigned short quantidadeestoque2 = 65536; // não compila
+    return 0;
 }

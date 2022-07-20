@@ -9,5 +9,5 @@ int main (int argc, char **argv){
 
     // O resultado deve ser 1883
     cout << "Peso total das cargas: " <<  pesoTotalCargas << endl;
-
+    return 0;
 }

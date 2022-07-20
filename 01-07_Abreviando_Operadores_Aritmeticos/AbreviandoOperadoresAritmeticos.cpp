@@ -19,5 +19,5 @@ int main (int argc, char **argv){
     // quantidadeProdutos %= 4;
 
     cout << quantidadeProdutos << endl;
-
+    return 0;
 }

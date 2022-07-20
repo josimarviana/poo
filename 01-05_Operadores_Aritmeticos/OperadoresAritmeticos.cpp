@@ -24,4 +24,5 @@ int main(int argc, char **argv) {
     // Módulo
     int restodivisao = 7 % 2;
     cout << "Resto da divisão (módulo): " << restodivisao << endl;
+    return 0;
 }

@@ -16,5 +16,5 @@ int main (int argc, char **argv){
 
     cout << taxa1 << endl;
     cout << taxa2 << endl;
-
+    return 0;
 }

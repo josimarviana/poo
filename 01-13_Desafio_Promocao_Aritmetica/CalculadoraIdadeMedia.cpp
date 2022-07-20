@@ -11,5 +11,5 @@ int main (int argc, char **argv){
 
     cout << fixed << setprecision(2);
     cout << "Idade média: " << idadeMedia << endl;
-
+    return 0;
 }

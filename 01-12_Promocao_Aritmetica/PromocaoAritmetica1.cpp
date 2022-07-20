@@ -8,5 +8,5 @@ int main (int argc, char **argv){
     long z = x * y;
 
     cout << z << endl;
-
+    return 0;
 }

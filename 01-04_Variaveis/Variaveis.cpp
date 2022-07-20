@@ -9,5 +9,5 @@ int main(int argc, char **argv) {
     int totalidades = minhaidade + suaidade;
     
     cout << "Total das idades: " << totalidades << endl;
-
+    return 0;
 }

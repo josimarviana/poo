@@ -14,5 +14,5 @@ int main (int argc, char **argv){
 
     cout << "Total de downloads: " << totalDownloads <<endl;
     cout << "Novo total de downloads: " << novoTotalDownloads << endl;
-
+    return 0;
 }

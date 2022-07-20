@@ -9,5 +9,5 @@ int main(int argc, char **argv) {
     int idademedia = (minhaidade + suaidade + idadejoao) / 3;
 
     cout << "Idade média: " <<  idademedia << endl;	
-
+    return 0;
 }

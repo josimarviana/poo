@@ -10,5 +10,5 @@ int main (int argc, char **argv){
     cout << inicialDoNome << endl;
     cout << tipoCliente << endl;
     cout << simbolo << endl;
-
+    return 0;
 }

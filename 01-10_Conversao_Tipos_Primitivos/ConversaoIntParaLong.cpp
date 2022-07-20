@@ -9,5 +9,5 @@ int main (int argc, char **argv){
 
     cout << y << endl;
     cout << x << endl;
-
+    return 0;
 }

@@ -20,5 +20,5 @@ int main (int argc, char **argv){
     int idade = 30;
 
     cout << nome << " tem " << idade << " anos" << endl;
-
+    return 0;
 }

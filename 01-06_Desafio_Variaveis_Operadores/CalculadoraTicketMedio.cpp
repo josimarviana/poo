@@ -9,5 +9,5 @@ int main (int argc, char **argv){
     int ticketMedio = (venda1 + venda2 + venda3) / 3;
 
     cout << "Ticket médio: " <<  ticketMedio << endl;
-
+    return 0;
 }

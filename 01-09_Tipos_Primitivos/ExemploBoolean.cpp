@@ -14,5 +14,5 @@ int main (int argc, char **argv){
 
     bool estoquesuficiente = quantidadeestoque >= quantidadepedidocompra;
     cout << "Estoque suficiente: " << estoquesuficiente << endl;
-
+    return 0;
 }

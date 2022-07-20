@@ -11,5 +11,5 @@ int main (int argc, char **argv){
 
     cout << "Limite de tentativas de login: " << limiteTentativasLogin << endl;
     cout << "Novo limite de tentativas de login: " << novoLimiteTentativasLogin << endl;
-
+    return 0;
 }

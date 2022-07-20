@@ -8,5 +8,5 @@ int main (int argc, char **argv){
     // float taxa = 1_294.93; // não compila
     float taxa = 1294.93f;
     cout << taxa << endl;
-
+    return 0;
 }
